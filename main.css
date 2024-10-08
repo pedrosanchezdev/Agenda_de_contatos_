@@ -1,0 +1,49 @@
+* {
+    margin:auto;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 12px;
+    align-content: space-between;
+}
+
+input {
+    display: block;
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+
+button {
+    font-size: 23px;
+    background-color: black;
+    color: #fff;
+    border-radius: 60cap;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.titulo {
+    font-size: 34px;
+    color:brown;
+    display: block;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+thead, th, td {
+    font-size: 20px;
+    color: black;
+    padding-inline: 99px;
+}
+
+footer {
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: brown;
+    padding: 10px 0;
+
+}
